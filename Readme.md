@@ -60,18 +60,22 @@ Data-Science-Internship-ARCH/
 ├── Titanic-Survival/
 │   ├── data/
 │   ├── notebooks/
+│   ├── requiremnts.txt
 │   └── README.md
 ├── Stock-Price-Prediction/
 │   ├── data/
 │   ├── notebooks/
+│   ├── requiremnts.txt
 │   └── README.md
 ├── Customer-Segmentation/
 │   ├── data/
 │   ├── notebooks/
+│   ├── requiremnts.txt
 │   └── README.md
 ├── Movie-Rating-Prediction/
 │   ├── data/
 │   ├── notebooks/
+│   ├── requiremnts.txt
 │   └── README.md
 ├── requirements.txt
 └── README.md
