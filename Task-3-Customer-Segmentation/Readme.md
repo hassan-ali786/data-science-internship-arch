@@ -35,7 +35,7 @@ This project segments customers based on their **Annual Income** and **Spending 
 
 ## File Structure
 ```
-Customer-Segmentation/
+Task-3-Customer-Segmentation/
 ├── data/
 │ └── Mall_Customers.csv
 ├── notebooks/
