@@ -34,6 +34,7 @@ This project segments customers based on their **Annual Income** and **Spending 
 - Joblib
 
 ## File Structure
+```
 Customer-Segmentation/
 ├── data/
 │ └── Mall_Customers.csv
@@ -45,7 +46,7 @@ Customer-Segmentation/
 ├── models/
 │ └── kmeans_model.pkl
 └── README.md
-
+```
 
 ## How to Run
 1. Install required packages: `pip install -r requirements.txt`
