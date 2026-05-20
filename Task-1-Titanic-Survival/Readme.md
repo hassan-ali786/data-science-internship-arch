@@ -36,7 +36,7 @@ This model was selected due to its interpretability and effectiveness for binary
 
 ## File Structure
 ```
-Movie-Rating-Prediction/
+Task-1-Titanic-Survival/
 ├── data/
 │   └── ratings.csv
 ├── notebooks/
