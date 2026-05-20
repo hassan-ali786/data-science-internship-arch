@@ -34,6 +34,16 @@ This model was selected due to its interpretability and effectiveness for binary
 
 ---
 
+## File Structure
+```
+Movie-Rating-Prediction/
+├── data/
+│   └── ratings.csv
+├── notebooks/
+│   └── Movie_Rating_Prediction.ipynb
+└── README.md
+```
+
 ## Results
 The model achieved good predictive accuracy and showed that:
 - Gender had a significant impact on survival probability  
