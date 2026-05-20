@@ -38,9 +38,9 @@ This model was selected due to its interpretability and effectiveness for binary
 ```
 Task-1-Titanic-Survival/
 ├── data/
-│   └── ratings.csv
+│   └── Titanic.csv
 ├── notebooks/
-│   └── Movie_Rating_Prediction.ipynb
+│   └── Titanic_Survival_Classification.ipynb
 └── README.md
 ```
 
