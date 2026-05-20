@@ -34,7 +34,7 @@ Movie-Rating-Prediction/
 │   └── ratings.csv
 ├── notebooks/
 │   └── Movie_Rating_Prediction.ipynb
-    └── 
+    └── rating_model.pkl
 ├── requirements.txt
 └── README.md
 ```
