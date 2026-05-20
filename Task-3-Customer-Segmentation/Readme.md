@@ -50,5 +50,6 @@ Customer-Segmentation/
 4. Check outputs and visualizations
 
 ## Author
-Hassan Ali   Data Scientist  & Machine Learning Engineer
+Hassan Ali 
+Data Scientist  & Machine Learning Engineer
 GitHub: https://github.com/hassan-ali786  
