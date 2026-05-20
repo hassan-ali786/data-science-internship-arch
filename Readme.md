@@ -60,24 +60,23 @@ Data-Science-Internship-ARCH/
 ├── Task-1-Titanic-Survival/
 │   ├── data/
 │   ├── notebooks/
-│   ├── requiremnts.txt
+│   ├── requirements.txt
 │   └── README.md
 ├── Task-2-Stock-Price-Prediction/
 │   ├── data/
 │   ├── notebooks/
-│   ├── requiremnts.txt
+│   ├── requirements.txt
 │   └── README.md
 ├── Task-3-Customer-Segmentation/
 │   ├── data/
 │   ├── notebooks/
-│   ├── requiremnts.txt
+│   ├── requirements.txt
 │   └── README.md
 ├── Task-4-Movie-Rating-Prediction/
 │   ├── data/
 │   ├── notebooks/
-│   ├── requiremnts.txt
+│   ├── requirements.txt
 │   └── README.md
-├── requirements.txt
 └── README.md
 ```
 
