@@ -84,7 +84,7 @@ Data-Science-Internship-ARCH/
 **Clone the repository:**
 ```bash
 git clone https://github.com/hassan-ali786/data-science-internship-arch.git
-cd Data-Science-Internship-ARCH
+cd data-science-internship-arch
 ```
 
 **Install dependencies:**
