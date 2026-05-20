@@ -41,6 +41,7 @@ Task-1-Titanic-Survival/
 │   └── Titanic.csv
 ├── notebooks/
 │   └── Titanic_Survival_Classification.ipynb
+├── requirements.txt
 └── README.md
 ```
 
