@@ -31,9 +31,9 @@ Historical data was used to train and evaluate the regression model.
 ```
 Task-2-Stock-Price-Prediction/
 ├── data/
-│   └── ratings.csv
+│   └── stock_data.csv
 ├── notebooks/
-│   └── Movie_Rating_Prediction.ipynb
+│   └── Stock_Price_Prediction.ipynb
 ├── requirements.txt
 └── README.md
 ```
