@@ -29,7 +29,7 @@ This project predicts **movie ratings** using user and movie IDs as input featur
 
 ## File Structure
 ```
-Movie-Rating-Prediction/
+Task-4-Movie-Rating-Prediction/
 ├── data/
 │   └── ratings.csv
 ├── notebooks/
