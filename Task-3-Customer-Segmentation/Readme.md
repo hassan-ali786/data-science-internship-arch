@@ -40,11 +40,6 @@ Customer-Segmentation/
 │ └── Mall_Customers.csv
 ├── notebooks/
 │ └── Customer_Segmentation.ipynb
-├── visuals/
-│ ├── elbow_method.png
-│ └── clusters.png
-├── models/
-│ └── kmeans_model.pkl
 └── README.md
 ```
 
