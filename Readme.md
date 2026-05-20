@@ -62,7 +62,7 @@ Data-Science-Internship-ARCH/
 │   ├── notebooks/
 │   ├── requiremnts.txt
 │   └── README.md
-├── Stock-Price-Prediction/
+├── Task-2-Stock-Price-Prediction/
 │   ├── data/
 │   ├── notebooks/
 │   ├── requiremnts.txt
