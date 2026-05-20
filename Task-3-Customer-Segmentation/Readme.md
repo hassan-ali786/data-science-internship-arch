@@ -39,8 +39,10 @@ Customer-Segmentation/
 ├── data/
 │ └── Mall_Customers.csv
 ├── notebooks/
-│ └── Customer_Segmentation.ipynb
+│└── Customer_Segmentation.ipynb
+├── requirements.txt
 └── README.md
+
 ```
 
 ## How to Run
