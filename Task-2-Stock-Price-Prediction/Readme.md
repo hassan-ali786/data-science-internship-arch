@@ -27,6 +27,17 @@ Historical data was used to train and evaluate the regression model.
 
 ---
 
+## File Structure
+```
+Task-2-Stock-Price-Prediction/
+├── data/
+│   └── ratings.csv
+├── notebooks/
+│   └── Movie_Rating_Prediction.ipynb
+├── requirements.txt
+└── README.md
+```
+
 ## Model Used
 Linear Regression
 
