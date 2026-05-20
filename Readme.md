@@ -57,7 +57,7 @@ Built a regression model to predict movie ratings from user and movie IDs. Inclu
 
 ```
 Data-Science-Internship-ARCH/
-├── Titanic-Survival/
+├── Task-1-Titanic-Survival/
 │   ├── data/
 │   ├── notebooks/
 │   ├── requiremnts.txt
