@@ -67,7 +67,7 @@ Data-Science-Internship-ARCH/
 │   ├── notebooks/
 │   ├── requiremnts.txt
 │   └── README.md
-├── Customer-Segmentation/
+├── Task-3-Customer-Segmentation/
 │   ├── data/
 │   ├── notebooks/
 │   ├── requiremnts.txt
