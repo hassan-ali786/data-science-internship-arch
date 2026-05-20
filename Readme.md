@@ -101,5 +101,7 @@ Open any notebook in the `notebooks/` folder using Jupyter or VS Code and run al
 
 **Hassan Ali**
 Data Science Intern — ARCH Technologies
+
 GitHub: [hassan-ali786](https://github.com/hassan-ali786)
+
 LinkedIn: [hassan-ali-datascientist](https://linkedin.com/in/hassan-ali-datascientist)
