@@ -72,7 +72,7 @@ Data-Science-Internship-ARCH/
 │   ├── notebooks/
 │   ├── requiremnts.txt
 │   └── README.md
-├── Movie-Rating-Prediction/
+├── Task-4-Movie-Rating-Prediction/
 │   ├── data/
 │   ├── notebooks/
 │   ├── requiremnts.txt
