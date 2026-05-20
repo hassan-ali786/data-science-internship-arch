@@ -49,6 +49,6 @@ Customer-Segmentation/
 3. Run all cells
 4. Check outputs and visualizations
 
-## Contact
-Hassan Ali   Data Scientist  
+## Author
+Hassan Ali   Data Scientist  & Machine Learning Engineer
 GitHub: https://github.com/hassan-ali786  
