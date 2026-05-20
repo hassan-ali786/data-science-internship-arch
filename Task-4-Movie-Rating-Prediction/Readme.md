@@ -45,5 +45,5 @@ Movie-Rating-Prediction/
 
 ## Contact
 Hassan Ali  
-Aspiring Data Scientist  
+Data Scientist & Machine Learning Engineer
 GitHub: https://github.com/hassan-ali786  
