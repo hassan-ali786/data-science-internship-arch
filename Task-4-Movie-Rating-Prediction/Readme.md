@@ -34,10 +34,7 @@ Movie-Rating-Prediction/
 │   └── ratings.csv
 ├── notebooks/
 │   └── Movie_Rating_Prediction.ipynb
-├── visuals/
-│   └── prediction_plot.png
-├── models/
-│   └── rating_model.pkl
+├── requirements.txt
 └── README.md
 ```
 ## How to Run
