@@ -3,6 +3,10 @@
 ## Project Overview
 This project segments customers based on their **Annual Income** and **Spending Score** using **KMeans clustering**. It helps businesses identify customer groups for targeted marketing and better decision-making.
 
+## Video Demo:
+
+https://github.com/user-attachments/assets/9dcb191f-427a-4a96-aff5-ae200dd08ef3
+
 ## Dataset
 - **Source:** Mall Customers Dataset (CSV)
 - **Features Used:**
