@@ -5,6 +5,12 @@ The goal of this project is to predict the closing price of a stock using histor
 
 ---
 
+## Video Demo:
+
+https://github.com/user-attachments/assets/1c28cdf8-0119-4c1b-be10-12e8a3399707
+
+---
+
 ## Dataset
 The dataset includes the following features:
 - Opening Price  
