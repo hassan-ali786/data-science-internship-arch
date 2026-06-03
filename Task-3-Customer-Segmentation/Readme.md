@@ -5,7 +5,8 @@ This project segments customers based on their **Annual Income** and **Spending 
 
 ## Video Demo:
 
-https://github.com/user-attachments/assets/9dcb191f-427a-4a96-aff5-ae200dd08ef3
+<video src="https://github.com/user-attachments/assets/9dcb191f-427a-4a96-aff5-ae200dd08ef3" width="100%" controls></video>
+
 
 ## Dataset
 - **Source:** Mall Customers Dataset (CSV)
