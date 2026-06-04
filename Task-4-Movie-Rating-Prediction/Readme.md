@@ -46,5 +46,5 @@ Task-4-Movie-Rating-Prediction/
 
 ## Contact
 Hassan Ali  
-Data Scientist & Machine Learning Engineer
+Data Scientist & ML Engineer
  
