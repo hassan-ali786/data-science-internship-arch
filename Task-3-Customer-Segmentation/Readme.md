@@ -58,5 +58,6 @@ Task-3-Customer-Segmentation/
 
 ## Author
 Hassan Ali 
-Data Scientist  & Machine Learning Engineer
+
+Data Scientist  & ML Engineer
 
